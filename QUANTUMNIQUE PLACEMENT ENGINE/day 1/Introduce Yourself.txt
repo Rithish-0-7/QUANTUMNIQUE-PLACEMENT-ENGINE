@@ -1,0 +1,24 @@
+My name is Rithish.K
+I am currently pursuing 3rd year cyber security at muthayammal engineering college.
+I am interested in web development, software development and problem solving.
+I have worked on projects like ZOOTOPET-Pet Service Web Application and NutriNova AI .
+where ZOOTOPET-Pet Service Web Application is project of main which I led 
+a team of four in developing, ZOOTOPET, a full-stack service-based web 
+application designed to support pet adoption, pet product shopping, and the 
+rescue of animals in need. As the team leader, I coordinated development 
+tasks, managed workflows, and contributed to both frontend and backend 
+development. 
+        Key features include: 
+            Pet Adoption: Browse and adopt pets through an intuitive and user
+                friendly interface. 
+            Pet Shop: Purchase accessories and essentials for pets. 
+            Rescue Service: Facilitate the reporting and rescue of animals in 
+                distress Implemented using the MERN stack, ensuring a responsive, 
+                scalable, and dynamic web experience.
+And where NutriNova is a AI Powered Nutrition & Fitness Intelligence Platform
+Developed a full-stack AI fitness application that analyzes meals using image recognition 
+and provides real-time calorie tracking, macro analysis, and personalized workout 
+recommendations. Built a modern analytics dashboard with interactive charts to visualize 
+nutrition intake, workout progress, and health insights. Integrated AI coaching to deliver 
+adaptive diet suggestions and fitness guidance.
+My goal is to become a software engineer in a product-based company.
