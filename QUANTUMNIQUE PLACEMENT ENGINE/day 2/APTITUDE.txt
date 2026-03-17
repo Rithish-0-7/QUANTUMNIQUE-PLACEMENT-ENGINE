@@ -1,0 +1,49 @@
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.
+Answer:
+    profit %=profit/cost*100
+    profit%=80/400*100
+    =0.2*100
+    =20
+    the product percentage =20%
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+Answer:
+    loss %=loss/cost*100
+    loss%=300/1500*100
+    =0.2*100
+    =20
+    the loss percentage =20%
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+Answer:
+    Marked Price = 100% + 20%
+    selling price = 120
+    discount = 10%
+    10% of 120 = 12
+    sold price = 108 
+    then the profit percentage is 8% 
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+Answer:
+    cost of 5 pen = ₹100
+    cost of 1 pen = ₹20
+    if a pen is sold with 25% profit then (25/100*20=5) which is ₹5 
+    the 5 pen = ₹125
+    the profit amount of the pen in 25% profit percentage = ₹25 
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+Answer:
+    original price= 90% + 10%
+    which the 90%=900 from the original price
+    90/100 * original price = 900
+    original price = 900 * 100 / 90
+    =1000
+    where the original price = ₹1000

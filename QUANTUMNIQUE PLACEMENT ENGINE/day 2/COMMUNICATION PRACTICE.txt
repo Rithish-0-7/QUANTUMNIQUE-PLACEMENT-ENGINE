@@ -1,0 +1,22 @@
+Project Overview: ZOOTOPET
+The Problem:
+            Animal welfare is pretty fragmented. If you want to adopt a pet, buy supplies, or report an animal in distress, 
+        you usually have to jump between different platforms or deal with slow, paper-based systems. There wasn’t really a
+        "one-stop shop" that connected adopters, pet owners, and rescuers. I developed ZOOTOPET to bridge that gap by bringing
+        all these essential services into one centralized, easy-to-use web application.
+Tech uesed:
+        We built the entire platform using the MERN Stack (MongoDB, Express, React, and Node.js).
+            * We used MongoDB because its flexible schema made it easy to store diverse data like pet profiles and shop inventory.
+            * React handled the frontend, ensuring the user interface felt smooth and responsive.
+            * Node.js and Express powered our backend, managing all the server logic and API routes that kept the app running.
+
+My Role & Leadership
+            I served as the Team Leader for our group of four. Beyond just coding, I was responsible for managing our workflow,
+            setting milestones, and making sure everyone stayed on track. On the technical side, I worked as a Full-Stack Developer, 
+            meaning I spent time designing the UI/UX in React and also building out the database architecture and APIs. I personally oversaw 
+            the integration of the three core modules to make sure they worked together.
+Key Features
+        * Pet Adoption: A streamlined portal where users can browse detailed profiles and start the adoption process digitally.
+        * Pet Shop: A full e-commerce experience where owners can grab food, toys, and accessories for their pets.
+        * Rescue Service: This is the heart of the project—a dedicated tool that lets anyone report an animal in trouble,
+          helping local rescuers respond much faster.
