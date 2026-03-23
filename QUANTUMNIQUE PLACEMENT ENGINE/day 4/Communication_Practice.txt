@@ -1,0 +1,21 @@
+Topic: Looping (Control Flow)
+Definition:
+        Looping is a programming concept used to repeat a specific block of code multiple times until a certain condition is met. It prevents the need to write the same line of code over and over again.
+
+Real-World Example:
+
+        Think of a Fan or a Clock.
+
+A fan doesn't just spin once and stop; it "loops" the motion of the blades continuously as long as the power is "ON" (the condition). Once you flip the switch to "OFF," the loop breaks, and the fan stops.
+
+Use Case:
+        Looping is used in almost every digital interaction:
+
+Music Playlists:
+        Using a "Repeat" function to play a list of songs from start to finish.
+
+Login Attempts:
+        A system that lets you try your password 3 times before locking you out (a loop that runs 3 times).
+
+Data Processing: 
+        Checking thousands of customer records one by one to find who has a birthday today

@@ -1,0 +1,47 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Explain a recent technical topic you learned.
+
+Topic : API (Application Programming Interface)
+
+      (1) An API is a set of rules and protocols that allows different software applications to communicate 
+      and share data with each other.
+
+      (2) It acts as a middleman, taking a request from a user or application and delivering it to a system,
+      then bringing the system's response back to the requester.
+      
+      (3) APIs allow developers to use existing functionalities (like maps or payment processing) 
+      without having to write the code from scratch.
+      
+      (4) The process follows a simple request-response cycle:
+
+
+      (a) Request: The client sends a specific command to the API.
+      (b) Endpoint: The specific "address" or URL where the API receives requests.
+      (c) Data Format: Information is usually exchanged in lightweight formats like JSON or XML.
+      (d) Authentication: Security keys ensure only authorized users can access the data.
+
+
+Real-World Example:
+
+Think of a Waiter in a Restaurant:
+
+      The Customer (User) wants food from the Kitchen (Server).
+
+      The Customer cannot go directly into the kitchen to prepare the meal.
+
+      The Waiter (API) takes the order, delivers it to the kitchen, and then brings the food 
+      back to the table.
+
+Use Case:
+
+      APIs are essential for modern digital experiences:
+      
+      Weather Apps: Your phone's weather app doesn't have its own satellites; it uses an API to 
+      get data from a weather station (like AccuWeather).
+      
+      Log-in with Google/Facebook: Websites use APIs to verify your identity through your social 
+      media account instead of creating a new password.
+      
+      Online Payments: E-commerce sites use the Stripe API or PayPal API to securely process 
+      credit card transactions.

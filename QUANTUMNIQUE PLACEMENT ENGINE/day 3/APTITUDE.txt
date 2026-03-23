@@ -1,0 +1,20 @@
+Question 1
+If A:B = 3:5 and B:C = 2:3, find A:C
+  Make B equal  6:10 and 10:15 → A:C = 2:5
+  Answer: 2 : 5
+Question 2
+Divide ₹1000 in the ratio 2:3:5
+  Total parts = 10  each = 100  values = 200, 300, 500
+  Answer: ₹200, ₹300, ₹500
+Question 3
+If 4 pens cost ₹40, what is the cost of 10 pens
+  1 pen = 10  10 pens = 100
+  Answer: ₹100
+Question 4
+Ratio of boys to girls is 3:2, total students = 50
+  Total parts = 5  each = 10  girls = 20
+  Answer: 20 girls
+Question 5
+If A:B = 4:7 and B = 21, find A
+  1 part = 3  A = 12
+  Answer: 12

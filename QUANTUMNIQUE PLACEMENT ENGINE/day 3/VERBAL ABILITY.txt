@@ -1,0 +1,22 @@
+                    Reading passage
+
+1.Why are data structures important
+  Answer: Efficient problem solving
+
+2.What happens if we choose the wrong data structure
+  Answer: Performance becomes slow
+
+3.What does performance mean in programming
+  Answer: Speed and efficiency
+
+
+                    Grammar Correction
+
+1.He go to college daily
+  Answer: He goes to college daily
+
+2.She don’t likes coding
+  Answer: She doesn’t like coding
+
+3.We was solving problems
+  Answer: We were solving problems
